@@ -8,8 +8,10 @@
 - Trazabilidad: corrección asociada a ISSUE-3
 
 ## [v1.0.1] - 2026
-- Hotfix: nota de hotfix registrada en CHANGELOG (simulación de caso sin trazabilidad)
 
 ## [v1.0.0] - 2026
 - Baseline: estructura + SRS v1 + código mínimo + prueba mínima
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7233f476cc49070b43ada5d482e75c714ae7f418
